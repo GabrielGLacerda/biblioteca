@@ -1,0 +1,129 @@
+{
+    "books": {
+        "book1":{
+            "appId": 1,
+            "author": "Felipe Gregoli",
+            "title": "meteor falls",
+            "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac ultricies felis. Nulla lobortis dui ut tellus pretium suscipit. Vivamus et turpis vitae tellus faucibus maximus. Nulla facilisi. Vestibulum egestas mauris non ornare condimentum. Donec dignissim orci ut consequat fringilla. Mauris ultrices fringilla ligula, a dictum ipsum posuere id. Praesent augue ex, maximus quis mollis eu, imperdiet eget libero. Nulla eu laoreet eros. Proin a lorem id ex lacinia ullamcorper vitae vitae nibh. Nunc at consectetur magna, sit amet scelerisque massa. Suspendisse sagittis, sem vel pretium posuere, felis lacus tincidunt nibh, ac congue sapien mauris quis sem. Aliquam ac eros ac erat dictum facilisis.</p>",
+            "categories": [
+                {
+                    "id": 1,
+                    "name": "Quadrinho"
+                },
+                {
+                    "id": 2,
+                    "name": "Ficção Científica"
+                },
+                {
+                    "id": 3,
+                    "name": "Espacial"
+                },
+                {
+                    "id": 4,
+                    "name": "Comédia"
+                }
+            ],
+            "pages": [
+                {
+                    "id": 1,
+                    "text": "lorem ipsum",
+                    "pageNumber": 1
+                },
+                {
+                    "id": 1,
+                    "text": "Orci varius natoque penatibus et magnis d",
+                    "pageNumber": 2
+                },
+                {
+                    "id": 1,
+                    "text": "Quisque quis lectus quis nulla facilisis dict",
+                    "pageNumber": 3
+                }
+            ]
+        },
+        "book2":{
+            "appId": 2,
+            "author": "Robert Louis Stevenson",
+            "title": "O médico e o monstro",
+            "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac ultricies felis. Nulla lobortis dui ut tellus pretium suscipit. Vivamus et turpis vitae tellus faucibus maximus. Nulla facilisi. Vestibulum egestas mauris non ornare condimentum. Donec dignissim orci ut consequat fringilla. Mauris ultrices fringilla ligula, a dictum ipsum posuere id. Praesent augue ex, maximus quis mollis eu, imperdiet eget libero. Nulla eu laoreet eros. Proin a lorem id ex lacinia ullamcorper vitae vitae nibh. Nunc at consectetur magna, sit amet scelerisque massa. Suspendisse sagittis, sem vel pretium posuere, felis lacus tincidunt nibh, ac congue sapien mauris quis sem. Aliquam ac eros ac erat dictum facilisis.</p>",
+            "categories": [
+                {
+                    "id": 1,
+                    "name": "Quadrinho"
+                },
+                {
+                    "id": 2,
+                    "name": "Ficção Científica"
+                },
+                {
+                    "id": 3,
+                    "name": "Espacial"
+                },
+                {
+                    "id": 4,
+                    "name": "Comédia"
+                }
+            ],
+            "pages": [
+                {
+                    "id": 1,
+                    "text": "lorem ipsum",
+                    "pageNumber": 1
+                },
+                {
+                    "id": 1,
+                    "text": "Orci varius natoque penatibus et magnis d",
+                    "pageNumber": 2
+                },
+                {
+                    "id": 1,
+                    "text": "Quisque quis lectus quis nulla facilisis dict",
+                    "pageNumber": 3
+                }
+            ]
+        },
+        "book3":{
+        "appId": 3,
+        "author": "Sir Arthur Conan Doyle",
+        "title": "Sherlock",
+        "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac ultricies felis. Nulla lobortis dui ut tellus pretium suscipit. Vivamus et turpis vitae tellus faucibus maximus. Nulla facilisi. Vestibulum egestas mauris non ornare condimentum. Donec dignissim orci ut consequat fringilla. Mauris ultrices fringilla ligula, a dictum ipsum posuere id. Praesent augue ex, maximus quis mollis eu, imperdiet eget libero. Nulla eu laoreet eros. Proin a lorem id ex lacinia ullamcorper vitae vitae nibh. Nunc at consectetur magna, sit amet scelerisque massa. Suspendisse sagittis, sem vel pretium posuere, felis lacus tincidunt nibh, ac congue sapien mauris quis sem. Aliquam ac eros ac erat dictum facilisis.</p>",
+        "categories": [
+            {
+                "id": 1,
+                "name": "Quadrinho"
+            },
+            {
+                "id": 2,
+                "name": "Ficção Científica"
+            },
+            {
+                "id": 3,
+                "name": "Espacial"
+            },
+            {
+                "id": 4,
+                "name": "Comédia"
+            }
+        ],
+        "pages": [
+            {
+                "id": 1,
+                "text": "lorem ipsum",
+                "pageNumber": 1
+            },
+            {
+                "id": 1,
+                "text": "Orci varius natoque penatibus et magnis d",
+                "pageNumber": 2
+            },
+            {
+                "id": 1,
+                "text": "Quisque quis lectus quis nulla facilisis dict",
+                "pageNumber": 3
+            }
+        ]
+        }
+        
+    }
+    
+}

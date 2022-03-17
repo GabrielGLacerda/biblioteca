@@ -1,0 +1,16 @@
+$colors: (
+  light: (
+    base: #f7f7f7,
+    darkest: #f0f0f0
+  ),
+  dark: (
+    base: #7e7a7a,
+    darkest: #292929
+  )
+
+  $breakpoints: (
+  small: (max-width:  600px),
+  medium: (min-width: 600px) and (max-width: 992px),
+  large: (min-width: 992px) and (max-width: 1200px),
+  infinity: (min-width: 1200px)
+) !default;
